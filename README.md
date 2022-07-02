@@ -1,4 +1,4 @@
-# Task Manager Project
+# Task Manager Client
 
 ## Dev Environment Setup
 
