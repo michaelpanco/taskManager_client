@@ -8,7 +8,7 @@
 
 ## Installation
 
--   Clone the Project
+-   Make sure you have NodeJS and Yarn in your local machine
 -   git clone `git@github.com:michaelpanco/taskManager_client.git`
 -   create .env.local in the project root and copy the content of the .env.sample
 -   run `yarn install` to install the NodeJS dependencies
