@@ -13,3 +13,4 @@
 -   run `yarn install` to install all NodeJS dependencies
 -   run `yarn dev -p 3001` to start the project
 -   Once the project has started, you can access it through `http://localhost:3001` URL
+-   After you accessed your project URL, you need to register an account to login
